@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Backrest is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/garethgeorge/backrest
+Backrest provides a secure, web‑accessible backup solution built on top of restic. It offers an intuitive Web UI for managing repositories, snapshots, and restores, with features like scheduling, repository health monitoring, and support for multiple storage backends such as S3, B2, Azure, and GCS. The platform simplifies backup workflows for both technical and non‑technical users, delivering encrypted, reliable backups through a lightweight Go binary.
+
+**Areas:** Backup · Storage · Restic · OpenSource · Go
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://backrest.org/)
+- [Blog](https://backrest.org/category/blog/)
+- [Terms of service](https://backrest.org/terms-and-conditions/)
+- [Privacy policy](https://backrest.org/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/backrest/](https://apis.io/providers/backrest/).
